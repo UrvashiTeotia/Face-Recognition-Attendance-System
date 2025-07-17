@@ -10,11 +10,13 @@ Attendance stored in a CSV file (Attendance.csv)
 Add new faces by simply adding images
 Admin login system
 Simple and easy to use
+
 🔧 How It Works
 Add clear images in the ImagesAttendance/ folder. Use filenames as the person's name (e.g., Aryendra.jpg).
 Run the main script (face_recog.py)
 Camera will open and recognize known faces
 Automatically logs attendance in Attendance.csv
+
 📁 Folder Structure
 ATTENDANCE
 ├── ImagesAttendance/ → Folder with known face images (filenames = names)
